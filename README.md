@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on Laravel, Network Administrator and DevOps Projects
 - 🤔 I’m also working as a Freelancer at Radenhoster.
 - 💬 Ask me about Programming, Network Administrator, and DevOps
-- 📫 You can Contact me by my website https://www.radenfebri.my.id | https://docs.radenfebri.my.id
+- 📫 You can Contact me by my website https://www.radenfebri.my.id
 
 <p>Connect with me on
 <br>	
